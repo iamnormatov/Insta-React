@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { Home2, SearchNormal, Export } from "iconsax-react";
-
+//.
 import { useSelector } from "react-redux";
 
 const BottomBar = () => {
