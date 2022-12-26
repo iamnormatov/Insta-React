@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
-
+//.
 import { SpinnerCircularSplit } from "spinners-react";
 
 import { followUserFeeds } from "../../features/feed/feedSlice.js";
