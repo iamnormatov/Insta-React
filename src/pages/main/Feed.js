@@ -8,7 +8,7 @@ import {
   deleteFeed,
   getFeed,
 } from "../../features/feed/feedSlice";
-
+//.
 import { Link } from "react-router-dom";
 
 import { More, Heart, Message, Save2, Send, Trash } from "iconsax-react";
