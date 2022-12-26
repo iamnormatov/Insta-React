@@ -3,7 +3,7 @@ import Logo from "../assets/img/instagram logo.svg";
 import styled from "styled-components";
 import { NavLink } from "react-router-dom";
 import { Home2, SearchNormal, Export } from "iconsax-react";
-
+//.
 import { useSelector } from "react-redux";
 
 const Navbar = () => {
