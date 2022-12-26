@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Mockup from "../assets/img/iphonesvg.svg";
 import { Link } from "react-router-dom";
 import Logo from "../assets/img/instagram logo.svg";
-
+//.
 const Landing = () => {
   return (
     <Wrapper>
