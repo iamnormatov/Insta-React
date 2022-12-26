@@ -6,7 +6,7 @@ import {
   removeUserFromLocalStorage,
 } from "../../utils/localStorage";
 import { toast } from "react-toastify";
-
+//.
 axios.interceptors.request.use((config) => {
   const user = getUserFromLocalStorage();
   if (user) {
