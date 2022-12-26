@@ -1,5 +1,5 @@
 import React from "react";
-
+//.
 const FormRow2 = ({ type, name, value, handleChange, placeholder }) => {
   return (
     <textarea
