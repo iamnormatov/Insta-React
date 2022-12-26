@@ -9,7 +9,7 @@ import { SpinnerCircularSplit } from "spinners-react";
 import { Heart, Message } from "iconsax-react";
 import { useEffect } from "react";
 import { getAllFeeds } from "../../features/feed/feedSlice";
-
+//.
 const Search = () => {
   const [value, setValue] = useState("");
 
