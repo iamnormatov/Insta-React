@@ -47,5 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://38c3-54-196-37-176.ngrok.io"
+  "proxy": "http://localhost:5000"
 }
