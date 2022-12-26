@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Logo from "../assets/img/instagram logo.svg";
 import { Link } from "react-router-dom";
-
+//.
 const Error = () => {
   return (
     <Wrapper>
