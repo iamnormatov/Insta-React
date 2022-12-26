@@ -1,5 +1,5 @@
 import React from "react";
-
+//.
 const FormRow = ({ type, name, value, handleChange, placeholder }) => {
   return (
     <input
